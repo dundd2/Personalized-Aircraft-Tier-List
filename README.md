@@ -24,7 +24,7 @@ The tiers are organized from best to worst, with descriptions to clarify each ca
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/aircraft-tier-list.git
+   git clone https://github.com/dundd2/aircraft-tier-list.git
    cd aircraft-tier-list
    ```
 
