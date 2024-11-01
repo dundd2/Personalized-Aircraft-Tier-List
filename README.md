@@ -2,6 +2,9 @@
 
 This project provides an interactive, customizable tier list for ranking aircraft models from Airbus, Boeing, and regional manufacturers. It allows users to sort aircraft into tiers based on personal preferences or other criteria. The list is fully adjustable and includes a save feature, so changes persist even after reloading the page.
 
+## ScreenShot:
+![ScreenShot](https://github.com/dundd2/Personalized-Aircraft-Tier-List/blob/main/Screenshot.png)
+
 ## Features
 
 - **Interactive Tier List**: Move aircraft models between tiers to create a personalized ranking.
